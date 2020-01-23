@@ -1,4 +1,5 @@
  .octodex {
+     position: relative;
      margin: auto;
      display: flex;
      flex-direction: row;
@@ -19,8 +20,8 @@
      border-width: 10px 7.5px 0 7.5px;
      border-color: #CCCCCF transparent transparent transparent;
      position: absolute;
-     top: 320px;
-     left: 530px;
+     top: 310px;
+     left: 330px;
  }
  
  .octocat {
